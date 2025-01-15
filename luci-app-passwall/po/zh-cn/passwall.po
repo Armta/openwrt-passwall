@@ -1114,7 +1114,7 @@ msgstr "屏蔽列表"
 msgid "Lan IP List"
 msgstr "局域网 IP 列表"
 
-msgid "Route Hosts"
+msgid "Route Hosts"落地
 msgstr "路由 Hosts 文件"
 
 msgid "Join the direct hosts list of domain names will not proxy."
@@ -1803,3 +1803,9 @@ msgstr "是否真的要恢复客户端默认配置？"
 
 msgid "Settings have been successfully saved and applied!"
 msgstr "设置已成功保存并应用!"
+
+msgid "Chain Proxy"
+msgstr "链式代理"
+
+msgid "Landing Node"
+msgstr "落地节点"
